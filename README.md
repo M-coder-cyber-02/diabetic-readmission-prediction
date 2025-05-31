@@ -17,7 +17,7 @@ Hospital readmissions can be costly and often preventable. Leveraging data from 
 
 ---
 
-## 🧾 Files
+## Files
 
 - `Diabetic_Readmission_Prediction_Polished.ipynb`: https://github.com/M-coder-cyber-02/Diabetic-Readmission-Prediction/blob/main/Diabetic_Readmission_Prediction.ipynb
 - `diabetic_data.csv`: https://github.com/M-coder-cyber-02/Diabetic-Readmission-Prediction/blob/main/diabetic_data.csv
@@ -55,7 +55,7 @@ Hospital readmissions can be costly and often preventable. Leveraging data from 
 This project demonstrates the potential of predictive modeling in healthcare to identify at-risk diabetic patients and reduce preventable readmissions. 
 
 
-## 🔮 Future Improvements
+## Future Improvements
 
 - Integrate temporal features such as time between admissions
 - Apply model explainability using SHAP or LIME
@@ -72,13 +72,13 @@ This project demonstrates the potential of predictive modeling in healthcare to 
 
 ---
 
-## 🤝 Acknowledgements
+## Acknowledgements
 
 Thanks to the UCI Machine Learning Repository for providing the dataset.
 
 ---
 
-## 📬 Contact
+## Contact
 
 **Author**: Mahwish Malik  
 **LinkedIn**: https://www.linkedin.com/in/dr-mahwish-m-a570892a8/
