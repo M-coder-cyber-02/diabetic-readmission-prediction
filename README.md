@@ -43,11 +43,11 @@ Hospital readmissions can be costly and often preventable. Leveraging data from 
   - **F1-score**: 0.93
   - **ROC-AUC Score**: 0.958
 - **Top Predictors**:
-  - total_encounters  
-  - age    
-  - num_procedures    
-  - discharge_disposition_id
-  - is_chronic    
+  - `total_encounters`  
+  - `age`   
+  - `num_procedures`    
+  - `discharge_disposition_id`
+  - `is_chronic`   
 ---
 
 ## Conclusion
