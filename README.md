@@ -92,5 +92,5 @@ Thanks to the UCI Machine Learning Repository for providing the dataset.
 ## Contact
 
 **Author**: Mahwish Malik  
-**LinkedIn**: https://www.linkedin.com/in/dr-mahwish-m-a570892a8/  
+**LinkedIn**: https://www.linkedin.com/in/dr-mahwish-m-a570892a8/      
 **Email**: mahwishmalik1997@gmail.com
