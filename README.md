@@ -32,7 +32,7 @@ git clone https://github.com/M-coder-cyber-02/Diabetic-Readmission-Prediction.gi
 cd Diabetic-Readmission-Prediction  && \
 pip install -r requirements.txt && \
 jupyter notebook Diabetic_Readmission_Prediction_Polished.ipynb
-
+```
 ---
 
 ## Methodology
