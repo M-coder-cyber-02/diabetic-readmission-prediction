@@ -28,8 +28,8 @@ Hospital readmissions can be costly and often preventable. Leveraging data from 
 ## How to Run
 
 ```bash
-git clone https://github.com/M-coder-cyber-02/Diabetic-Readmission-Prediction.git
-cd Diabetic-Readmission-Prediction  
+git clone https://github.com/M-coder-cyber-02/diabetic-readmission-prediction.git
+cd diabetic-readmission-prediction  
 pip install -r requirements.txt 
 jupyter notebook Diabetic_Readmission_Prediction_Polished.ipynb
 ```
