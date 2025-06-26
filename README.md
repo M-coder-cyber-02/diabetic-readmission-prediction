@@ -19,9 +19,9 @@ Hospital readmissions can be costly and often preventable. Leveraging data from 
 
 ## Files
 
-- `Diabetic_Readmission_Prediction_Polished.ipynb`: https://github.com/M-coder-cyber-02/Diabetic-Readmission-Prediction/blob/main/Diabetic_Readmission_Prediction.ipynb
-- `diabetic_data.csv`: https://github.com/M-coder-cyber-02/Diabetic-Readmission-Prediction/blob/main/diabetic_data.csv
-- `README.md`: https://github.com/M-coder-cyber-02/Diabetic-Readmission-Prediction/blob/main/README.md
+- `Diabetic_Readmission_Prediction_Polished.ipynb`: https://github.com/M-coder-cyber-02/diabetic-readmission-prediction/blob/main/Diabetic_Readmission_Prediction_Polished.ipynb
+- `diabetic_data.csv`: https://github.com/M-coder-cyber-02/diabetic-readmission-prediction/blob/main/diabetic_data.csv
+- `README.md`: https://github.com/M-coder-cyber-02/diabetic-readmission-prediction/blob/main/README.md
   
 ---
 
